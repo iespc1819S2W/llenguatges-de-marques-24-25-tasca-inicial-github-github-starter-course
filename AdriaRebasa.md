@@ -1,2 +1,2 @@
 # Soc n'Adria
-suc :1234
+suc 
